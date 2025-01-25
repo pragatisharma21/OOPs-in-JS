@@ -1,0 +1,9 @@
+four pillers of object oriented programming -
+
+1.Encapsulation -- // alah alag chizo ko ek jagah pe fit karna ,,, 2. data hiding
+
+2.Abstraction 
+
+3.Inheritance
+ 
+4.Polymorphism
